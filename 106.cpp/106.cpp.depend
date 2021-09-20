@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1575177853 source:c:\users\ashish kumar\desktop\106.cpp\main.cpp
+	<algorithm>
+	<stdlib.h>
+	<iostream>
+	<map>
+
